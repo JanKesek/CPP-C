@@ -1,0 +1,11 @@
+#include <iostream>
+
+m>
+i in nt t m
+ma ai in n ()
+{
+i in nt t v vi i[1 10 0] ;
+s sh ho or rt t v vs s[1 10 0] ;
+s st td d: :c co ou ut t << &v vi i[0 0] <<  ́  ́ << &v vi i[1 1] <<  ́\ \n n ́;
+s st td d: :c co ou ut t << &v vs s[0 0] <<  ́  ́ << &v vs s[1 1] <<  ́\ \n n ́;
+}
